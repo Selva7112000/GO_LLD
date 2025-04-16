@@ -91,8 +91,7 @@ func main() {
 	adapter.BadAdapter()
 	adapter.GoodAdapter()
 
-	// Decorator
+	// Decorators
 	decorator.BadDecorator()
 	decorator.GoodDecorator()
-
 }
